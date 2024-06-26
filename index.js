@@ -20,4 +20,4 @@ function outcome() {
     total = num1 ** num2
     }
     document.getElementById('resultArea').innerHTML = 'Result: ' + String(total)
-    }
+}
